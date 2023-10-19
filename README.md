@@ -2,10 +2,10 @@
 
 My current interests are around the Ethereum blockchain, the practical use of emerging AI technology, and general web technology. 
 
-- I run IT for a leading medical device manufacturer, ADC.
-- I partner with companies to build bespoke software focused on e-commerce and content management at Sego Solutions.
-- I build and run validator infrastructure for the Ethereum blockchain at Long Island Blockchain.
-- I teach creative coding as an adjunct at Five Town College.
+- I run IT for a leading medical device manufacturer, [ADC](https://www.adctoday.com).
+- I partner with companies to build bespoke software focused on e-commerce and content management at [Sego Solutions](https://segosolutions.com).
+- I build and run validator infrastructure for the Ethereum blockchain at [Long Island Blockchain](https://liblockchain.xyz).
+- I teach creative coding as an adjunct at [Five Town College](https://www.ftc.edu/).
 
 If you have any ideas you would like to explore with me, I love to talk shop. You can reach me at the socials below:
 
